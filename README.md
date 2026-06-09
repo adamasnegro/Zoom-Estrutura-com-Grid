@@ -54,7 +54,7 @@ Este projeto foi criado para desenvolver habilidades em:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone git@github.com:adamasnegro/Zoom-Estrutura-com-Grid.git
 ```
 
 2. Acesse a pasta do projeto:
